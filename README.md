@@ -48,7 +48,5 @@ Contributions are welcome! If you'd like to enhance this project, please fork th
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
 > **Note:** This README provides a structured overview of the project. For detailed implementation and code examples, please refer to the project's source code and documentation.
-```
+
