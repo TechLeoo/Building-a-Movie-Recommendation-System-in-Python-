@@ -19,7 +19,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 warnings.filterwarnings('ignore')
 
 # Dealing with warnings and importing the dataset
-data = pd.read_csv('C:/Users/lEO/Desktop/Dataset/Data Science Portfolio/Association Rule Learning/Apriori/Market_Basket_Optimisation.csv', header = None)
+data = pd.read_csv('C:/Users/lEO/Desktop/Dataset/Kaggle Datasets/movies_genre.csv')
 dataset = pd.read_csv('C:/Users/lEO/Desktop/Dataset/Kaggle Datasets/movies_genre.csv')
 
 genre = dataset.iloc[:, 4:]
